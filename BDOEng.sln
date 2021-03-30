@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30907.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BDOEng", "BDOEng.csproj", "{02C0CDA0-024C-4637-81C9-DBE1E55E268B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02C0CDA0-024C-4637-81C9-DBE1E55E268B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02C0CDA0-024C-4637-81C9-DBE1E55E268B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02C0CDA0-024C-4637-81C9-DBE1E55E268B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02C0CDA0-024C-4637-81C9-DBE1E55E268B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F500916B-CE6F-494E-94CB-196F2E1EAAAF}
+	EndGlobalSection
+EndGlobal
